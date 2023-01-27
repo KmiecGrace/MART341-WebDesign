@@ -1,0 +1,5 @@
+A directory is a place where the files live. It stores the files that you have. It is sorta like a staff directory.
+
+VCS or Version Control System are useful because it can track the changes you make overtime, it allows you to revert back to a pervious version, and you can share and have other collaborate on the file
+
+My favroite artistic medium is pottery. I like the way the clay feels and how you can take a pile of wet dirt and make it into a beautiful vase or statue . It is just so amazing.
