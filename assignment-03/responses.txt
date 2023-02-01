@@ -1,0 +1,5 @@
+The Relationship between DNS and IP address is the DNS translate domain names into IP address. 
+
+A cookie is a small text file that help identify your computer and you to the computer network.
+
+The 3 esstainal parts of an URL is the protocol, domains, and paths.
