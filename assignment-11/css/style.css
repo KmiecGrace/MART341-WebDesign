@@ -1,0 +1,72 @@
+#header{
+    background-image: url("../images/two\ headed\ calf.jpg");
+}
+
+h1{
+    color: #E2BAA0;
+    font-family: Farmhouse;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+     text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#title:hover{
+    letter-spacing: 1em;
+    font-weight: 700;
+    color: #FFD5B0;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: #1E2956;
+    color: #1E2956;
+}
+
+.titleBorder:hover{
+    background-color: #FFD5B0;
+    color: #8D8B98;
+    text-indent: 11em;
+    font-family: Farmhouse;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.poem{
+    margin: auto;
+    color: #8D8B98;
+    font-size: 40px;
+    line-height: 40px;
+    max-width: 640px;
+    font-family: Farmhouse;
+    text-align: center;
+}
+
+.poem:first-line{
+    font-size: 45px;
+    font-family: Farmhouse;
+    line-height: 40px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 500px;
+}
+
+img {
+    border: 20px solid #FFD5B0;
+}
+
+#img-link:hover{
+    border: 50px solid #FFD5B0;
+}
