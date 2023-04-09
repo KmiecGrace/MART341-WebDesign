@@ -6,4 +6,4 @@ The importance of having a fallback font is if their client computer can not ren
 System fonts are on a varity of different computers, often these used in applications. Web fonts are imbedded into the website/ website code. Web Safe Font is a font on a varity of computers, and often used as a fallback font. 
 
 
-![screenshot](./images/screenshot.png)
+![screenshot](./images/Screenshot.png)
