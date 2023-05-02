@@ -28,3 +28,20 @@
     src: url(../fonts/ArtisualDecoThinItalic.otf); 
     font-size: normal;
 }
+
+@font-face {
+    font-family: "Sem1";
+    src:url(../fonts/engebrechtre\ rg.otf);
+    font-size: normal;
+}
+
+@font-face {
+    font-family: "Sem2";
+    src: url(../fonts/Semplicita\ Bold.otf);
+    font-size: normal;
+}
+
+@font-face {
+    font-family: "Sem3";
+    src:url(../fonts/Semplicita\ Medium.otf)
+}
