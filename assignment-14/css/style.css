@@ -1,0 +1,243 @@
+body {
+        background-color: tan;
+        background-image: url(../images/paper1.jpg);
+        background-repeat: repeat;
+
+}
+h1{
+    color: #000000;
+    font-family:Art1;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+     text-align: center;
+}
+
+h2{
+    color: #000000;
+    font-family:Sem2;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+     text-align: center;
+}
+
+h3{
+   color: #FF3D2A;
+   font-family:Art2;
+   font-size: 20px;
+   letter-spacing: 0.1em;
+   text-align: center;
+}
+
+header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #000000;
+    margin: 0px;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+    font-family: Art1;
+}
+
+.headerimage{
+background-image: url("../images/deco.jpg");
+background-position: center;
+background-repeat: no-repeat;
+position: relative;
+background-size: cover;
+}
+
+.menu-item {
+    color: #000000;
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+.menu-item a {
+    color: #FF3D2A;
+    text-decoration: none;
+}
+
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: #ffffff;
+    background-color: #ffffff;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+}
+.dropdown-content a {
+    color: #FF3D2A;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #FF3D2A;
+    background-color: #ffffff;
+}
+
+
+.dropdown:hover{
+    border-radius: 1em 1em 0em 0em;
+}
+
+.imageone {
+   position: absolute;
+   margin: 10%;
+   margin-left: 2%;
+   width: 50%;
+}
+
+.imagetwo {
+    position: absolute;
+    margin: 10%;
+    margin-left: 60%;
+    height: 50%;
+ }
+
+.image3 {
+    position: absolute;
+    margin: 60%;
+    margin-left: 2%;
+    width: 50%;
+ }
+
+ .image4 {
+    position: absolute;
+    margin: 59%;
+    margin-left: 60%;
+    height: 50%;
+ }
+
+ .text1 {
+   position: absolute;
+   margin: 44%;
+   margin-left: 22%;
+   width: 10;
+   font-family: Art3;
+   color: #FF3D2A;
+   background-color: #ffffff;
+   padding: 0.5em 1em;
+   border-radius: 1em;
+}
+
+.text2 {
+   position: absolute;
+   text-align: center;
+   margin: 44%;
+   margin-left: 65%;
+   scroll-margin: 50%;
+   width: 10%;
+   font-family: Art3;
+   color: #FF3D2A;
+   background-color: #ffffff;
+   padding: 0.5em 1em;
+   border-radius: 1em;
+}
+
+.text3 {
+   position: absolute;
+   margin: 100%;
+   margin-left: 20%;
+   width: 10%;
+   font-family: Art3;
+   color: #FF3D2A;
+   background-color: #ffffff;
+   padding: 0.5em 1em;
+   border-radius: 1em;
+}
+
+.text4 {
+   position: absolute;
+   text-align: center;
+   margin: 100%;
+   margin-left: 67%;
+   scroll-margin: 72%;
+   width: 10%;
+   font-family: Art3;
+   color: #FF3D2A;
+   background-color: #ffffff;
+   padding: 0.5em 1em;
+   border-radius: 1em;
+}
+
+
+
+ a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:visited {
+    color: #c20101;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:active {
+    color: black;
+    background-color: transparent;
+ }
+
+ img {
+    margin: auto;
+    display: block;
+  }
+
+ .Rachilde {
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+    display: block;
+ }
+
+ .LaTour {
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+    display: block;
+ }
+
+ .LeMarquise{
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+    display: block;
+ }
+
+ .Monsieur{
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+    display: block;
+ }
+
+ .Juggler{
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+    display: block;
+ }
