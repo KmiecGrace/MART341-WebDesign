@@ -1,0 +1,6 @@
+How did your user testing sessions go?
+    My testing sessions went very good. Both of the users were disappointed that the site was not completely finished. But I have been having trouble with certain aspects of the site, and couldn't get it done in time of the due date.
+What changes (if any) did you make to your website based on the user feedback you received?
+    I made changes of the flow being easier to compherehead. And I plan on adding texture before the final product is due. 
+Optional: What challenges did you face this week, and how did you overcome them?
+    I had challenges with both font.css and style. css. I couldn't understand why my style was not showing up on my site. It was because I forgot to link it on my Index.Html page. And I couldn't get my font to work at all. Once again it was an issue with the link in the index page. But because I had these problem, and would stress myself out so much, my site is finished for the assignment. It is mostly down expect for some infromation on the biography and book pages. It is upsetting that it isn't completely but now that I know and have fixed my issues, I expect for everything to go smoothly going forward. 
